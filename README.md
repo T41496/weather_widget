@@ -10,7 +10,6 @@ Just <b>copy & paste</b> this code snippet into your project to use this widget!
 <iframe
 	width="680"
 	height="460"
-	src="https://inagamov.github.io/vue-weather-widget/"
 	title="Weather Widget"
 	frameborder="0"
 	allow="accelerometer; clipboard-write; picture-in-picture"
